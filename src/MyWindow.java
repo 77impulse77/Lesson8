@@ -27,3 +27,4 @@ public class MyWindow extends JFrame {
         add(panel, BorderLayout.SOUTH);
     }
 }
+//ура ура ура
